@@ -1,4 +1,4 @@
-import "./about.css";
+import "./About.css";
 import juanPhoto from "../assets/juan.jpeg";
 import ianPhoto from "../assets/ian.jpeg";
 import brayanPhoto from "../assets/brayan.jpg";
